@@ -1,5 +1,5 @@
 # BLENDED_LEARNING
-# Implementation of Decision Tree Model for Tumor Classification
+# EXP-08 Implementation of Decision Tree Model for Tumor Classification
 
 ## AIM:
 To implement and evaluate a Decision Tree model to classify tumors as benign or malignant using a dataset of lab test results.
