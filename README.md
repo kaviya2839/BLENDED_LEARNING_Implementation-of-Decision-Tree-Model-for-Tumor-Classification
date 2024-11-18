@@ -1,4 +1,3 @@
-# BLENDED_LEARNING
 # EXP-08 Implementation of Decision Tree Model for Tumor Classification
 
 ## AIM:
